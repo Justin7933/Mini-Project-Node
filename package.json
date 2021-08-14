@@ -1,0 +1,22 @@
+{
+  "name": "mini-project-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justin7933/Mini-Project-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justin7933/Mini-Project-Node/issues"
+  },
+  "homepage": "https://github.com/Justin7933/Mini-Project-Node#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
